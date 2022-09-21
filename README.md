@@ -8,7 +8,7 @@ Simply use the link :<br /> http://socards.ansermot.io/?nick=YOUR_STACK_NICKNAME
 </p>
 
 **Important:**<br />
-There is a cache of 12 hours on the image, so it's normal if it's not updating instantly**
+There is a cache of 12 hours on the image, so it's normal if it's not updating instantly
 
 
 ## Example 
