@@ -7,7 +7,8 @@ A simple free tool to generate your StackOverflow.com profile card in a modern l
 Simply use the link :<br /> http://socards.ansermot.io/?nick=YOUR_STACK_NICKNAME_ESCAPED
 </p>
 
-There is a cache of 12 hours on the image, so it's normal if it's not updating instantly
+**Important:**<br />
+There is a cache of 12 hours on the image, so it's normal if it's not updating instantly**
 
 
 ## Example 
