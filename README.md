@@ -3,9 +3,14 @@
 A simple free tool to generate your StackOverflow.com profile card in a modern layout.
 
 ## How to use
-<p>
+
+### Use the form
+Go to this address : https://socards.ansermot.io<br />
+Fill out the form with your nickname and generate your card.
+
+### Direct link
 Simply use the link :<br /> https://socards.ansermot.io/card/YOUR_STACK_NICKNAME_SPACES_ESCAPED
-</p>
+
 
 **Important:**<br />
 There is a cache of 12 hours on the image, so it's normal if it's not updating instantly
